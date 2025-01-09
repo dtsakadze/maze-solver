@@ -27,3 +27,5 @@ def main():
 
 
 main()
+
+# TODO: add other solving algorithms: breadth-first search, A* search, etc.
